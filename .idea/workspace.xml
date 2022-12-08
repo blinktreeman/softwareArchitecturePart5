@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee16bfb-ce60-435f-a6df-40ba8499bb5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/BusinessLogicalLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/DatabaseAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Editor3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/EditorBusinessLogicalLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/EditorDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/EditorDatabaseAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Model3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/ProjectFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Texture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/UILayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/UMLClassDiagram.png" afterDir="false" />
-    </list>
+    <list default="true" id="bee16bfb-ce60-435f-a6df-40ba8499bb5f" name="Changes" comment="task done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670492944313</updated>
-      <workItem from="1670492946109" duration="7237000" />
+      <workItem from="1670492946109" duration="8521000" />
     </task>
+    <task id="LOCAL-00001" summary="task done">
+      <created>1670501521743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670501521743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task done" />
   </component>
 </project>
