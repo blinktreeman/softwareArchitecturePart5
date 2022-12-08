@@ -4,8 +4,7 @@
 
 ![UML Diagram](src/main/java/ru/bcomms/UMLClassDiagram.png)
 
-Вопрос:
-
+**Вопрос:**  
 Мы инициализируем в Editor3D:
 ```java
 @Override
