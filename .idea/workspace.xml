@@ -1,24 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee16bfb-ce60-435f-a6df-40ba8499bb5f" name="Changes" comment="" />
+    <list default="true" id="bee16bfb-ce60-435f-a6df-40ba8499bb5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/BusinessLogicalLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/DatabaseAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Editor3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/EditorBusinessLogicalLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/EditorDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/EditorDatabaseAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Model3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/ProjectFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/Texture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/UILayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/UMLClassDiagram.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Ictwvf1B8UYUqs0Owl9YCz9jzv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bcomms.App" />
+      <module name="softwareArchitecturePart5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bcomms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,7 +88,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670492944313</updated>
+      <workItem from="1670492946109" duration="7237000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
